@@ -14,6 +14,7 @@
 # OTHER  TORTIOUS ACTION,  ARISING  OUT OF  OR  IN CONNECTION  WITH  THE USE  OR
 # PERFORMANCE OF THIS SOFTWARE.
 
+version='1.0'
 folder="/tmp/${$}"
 
 function usage() {
