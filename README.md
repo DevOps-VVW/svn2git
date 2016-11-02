@@ -1,14 +1,5 @@
 # svn2git ![License badge][license-img] [![Build Status][build-img]][build-url]
 
-#### Table of Contents
-
-1. [Overview](#overview)
-2. [Description](#description)
-3. [Requirements](#requirements)
-4. [Setup](#setup)
-5. [Usage](#usage)
-6. [Development](#development)
-
 ## Overview
 
 This is a  simple shell script to migrate from svn  repository to git repository
