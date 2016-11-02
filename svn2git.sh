@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Copyright (c) 2016, rockyluke
 #
 # Permission  to use,  copy, modify,  and/or  distribute this  software for  any
